@@ -1,6 +1,6 @@
 ## Hi there!
 I'm Keneshin, nice to meet you! I'm 15 years old Software Engineer from Russia.   
-I love TypeScript and Kotlin.  
+I write most of my projects on JavaScript/TypeScript. 
 ## Some projects you should look at:   
 ### [Kotori](https://github.com/keneshindev/Kotori)
 Kotori is another Discord API wrapper for bots. Allows selfbotting.
