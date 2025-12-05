@@ -1,2 +1,2 @@
 # README.md
-![i'm gonna get ya](https://tenor.com/view/%ED%95%98%EB%A3%A8%EC%9A%B0%EB%9D%BC%EB%9D%BC-gif-26453523)
+![i'm gonna get ya](https://github.com/user-attachments/assets/0d15def3-4b7a-4999-99fe-c9441a593659)
